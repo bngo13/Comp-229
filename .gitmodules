@@ -1,0 +1,9 @@
+[submodule "api-design-2023-waste"]
+	path = api-design-2023-waste
+	url = git@github.com-school:comp-229/api-design-2023-waste.git
+[submodule "code-review-brian-chandra"]
+	path = code-review-brian-chandra
+	url = git@github.com-school:comp-229/code-review-brian-chandra.git
+[submodule "git-github-crash-course-bngo13"]
+	path = git-github-crash-course-bngo13
+	url = git@github.com-school:comp-229/git-github-crash-course-bngo13.git
